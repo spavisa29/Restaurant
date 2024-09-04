@@ -1,0 +1,6 @@
+1.download and install xampp
+2.This Project copy past Your Computer file path ex c->Xampp->htdoc-> past inside
+3.Create Database food.
+4.Run food.sql script provided in sql folder. -ICBT-PHP-PROJECT->sql->food
+5.Go to login.php
+6.Then Go to Db ->users ->What type of Uesr want you able to Login
